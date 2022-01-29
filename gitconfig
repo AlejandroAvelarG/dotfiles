@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = avelargonzalez@gmail.com
+	name = Jorge Alejandro Avelar Gonzalez
